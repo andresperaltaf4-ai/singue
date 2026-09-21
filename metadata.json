@@ -1,0 +1,6 @@
+{
+  "name": "singue - Shows en Vivo & Comunidad Interactiva",
+  "description": "Plataforma de transmisiones en vivo singue, inspirada en las corrientes de agua y viento. Salas interactivas, fichas, metas en directo, chat y modelos destacados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
